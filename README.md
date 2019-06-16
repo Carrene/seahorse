@@ -1,4 +1,10 @@
 # Seahorse
 The Alpha app's UI/UX design
 
+## iOS App
+
+- [Prototype](https://xd.adobe.com/view/5174f78b-8180-41f7-4066-88a37e5f70d9-2745/)
+
+- [Design specs](https://xd.adobe.com/spec/1679dbf1-f05a-4f54-71fa-6a7560b895c7-6048/)
+
 </br><img title="Yellow Tang animal image" src="https://i.pinimg.com/564x/a3/b6/c0/a3b6c0f1e3d972486963cd2e0980e408.jpg" width="100%">
