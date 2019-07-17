@@ -22,8 +22,8 @@ The Alpha app's UI/UX design
 
 ## Android App
 
-- [Prototype](https://xd.adobe.com/view/3e828fdd-67a3-4aec-79dd-475e1a63965a-48b3/)
+- [Prototype](https://xd.adobe.com/view/69e9809e-6c57-45d8-4cfc-def8c14599d7-1fd8/)
 
-- [Development](https://xd.adobe.com/spec/e7fca8f2-cc16-4708-41a5-b52bb6213c53-91cd/)
+- [Development](https://xd.adobe.com/spec/7e8713b5-2d5b-40ea-5126-c1d19d75fd39-08b6/)
 
 </br><img title="Yellow Tang animal image" src="https://i.pinimg.com/564x/a3/b6/c0/a3b6c0f1e3d972486963cd2e0980e408.jpg" width="100%">
